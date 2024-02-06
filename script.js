@@ -5,7 +5,7 @@ const boldElements = paragraph.querySelectorAll('strong');
 
     // Change the color of bold elements to green
     boldElements.forEach(element => {
-      element.style.color = 'green';
+      element.style.color = "rgb(0,128,0)";
     });
 
 }
